@@ -1,0 +1,1 @@
+drop table `db_jeferson`.`cidade`;
